@@ -1,0 +1,8 @@
+streamlit 
+pandas 
+openpyxl 
+requests 
+tqdm 
+deep-translator 
+langdetect 
+tenacity
